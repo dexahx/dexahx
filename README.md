@@ -1,6 +1,5 @@
 ## Hi,I am Ahmed!
 
-# 💫 About Me:
 👨‍💻 Aspiring Software Engineer sharing.  about my journey and learning in tech<br>🎓 Undergraduate at Open University of Sri Lanka<br>🍁 AI and Cybersecurity Enthusiast<br>🌱 Currently learning Full Stack Development & Python<br>🍂 ɴᴇᴠᴇʀ ꜱᴀʏ ɴᴇᴠᴇʀ
 
 
