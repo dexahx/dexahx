@@ -1,6 +1,6 @@
 ## 👋 Hi, I am Ahmed!
 
-👨‍💻 Aspiring Cyber Security Engineer sharing about my journey and learning in tech<br>🎓 Undergraduate at SLIIT<br>🍁 AI and Cybersecurity Enthusiast<br>🌱 Currently learning Python<br>🍂 ɴᴇᴠᴇʀ ꜱᴀʏ ɴᴇᴠᴇʀ
+👨‍💻 Aspiring Cybersecurity Specialist sharing about my journey and learning in tech<br>🎓 Undergraduate at SLIIT<br>🍁 AI and Cybersecurity Enthusiast<br>🌱 Currently learning Python<br>🍂 ɴᴇᴠᴇʀ ꜱᴀʏ ɴᴇᴠᴇʀ
 
 
 ## 🌐 Socials:
